@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Html Tutorial</title>
+    <style>
+        img {
+            width: 200px;
+            \\ độ lớn của ảnh;
+            border-radius: 50px;
+            \\dùng 100px bằng 1/2 của 200px thì khiến ảnh thành hình tròn;
+            float: left;
+            \\hiển thị nội dung bên trái;
+            margin-right: 10px;
+        }
+
+        p.username {
+            //áp dụng cho mọi username in đậm ;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <img src="images/FpfkXOoacAEU8oZ.jpg" alt="Gabe images say hi to gabe"/>
+    <p class="username">@PhamDaiTri</p>
+    <p>Html Tutorial</p>
+</body>
+
+</html>
