@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">// bao gồm các ký tự(character set); 
+    <meta name="viewport" content="width=device-width, intinal-scale=1.0">
+    //dòng này để tối ưu hóa trang khi chạy trên điện thoại hay máy tính;
+    <meta name="keywords" content="HTML, CSS">
+    <meta name="description" content="...">
+    <title>Document</title>
+    <style>
+        em{
+            color:mediumpurple;
+            font-style: normal;
+        }
+    </style>
+</head>
+<body>
+    <h1>Heading 1</h1>
+    <h2>HTML</h2>
+    <p>html tutorial</p>
+    <h3>CSS</h3>
+    <p>CSS tutorial</p>
+    <h4>heading 4</h4>
+    <p>
+        example of <em>HTML</em>!
+        ví dụ khi ta sử dụng một đoạn văn bản dài nên chữ cuối của dòng đầu không liền mạch với chữ đầu dòng 2 ta có 
+        thể sử dụng&nbsp; để liền mạch chúng 
+    </p>
+</body>
+</html>
